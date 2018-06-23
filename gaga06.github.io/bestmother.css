@@ -1,0 +1,39 @@
+  body
+  {
+    margin:1.2em auto;
+    max-width:40em;
+    padding:0 .62em;
+    font:1.2em/1.62 sans-serif;
+    flood-color: rgb(115,130,222);
+  }
+
+  h1
+  {
+    line-height:1.2;
+    font-weight: bold;
+    color: rgb(222,115,185);
+    text-decoration: underline;
+    text-align: center;
+    background-color: rgb(250,244,177)
+  }
+  h2
+  {
+    line-height:1;
+    font-weight: bold;
+    color: rgb(186,115,222);
+    background-color: rgb(250,244,165)
+  }
+
+  h3
+   {
+    line-height:0.8;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(186,115,222);
+  }
+  @media print{
+    body
+    {
+      max-width:none
+    }
+  }

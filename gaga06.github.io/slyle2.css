@@ -1,0 +1,38 @@
+*
+{
+  background-color: rgb(255,183,255);
+}
+
+h1
+{
+border: 3px solid white;
+    background-color: rgb(100,69,99);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    text-align: center;
+    color: white;
+}
+h2
+{
+  color: rgb(100,69,99);
+  text-align: left;
+
+}
+body
+  {
+    margin:1.2em auto;
+    max-width:50em;
+    padding:0 .62em;
+    font:1.2em/1.62 sans-serif;
+    flood-color: rgb(115,130,222);
+  }
+
+
+#lapin
+{
+  float: right;
+  border:3px solid white;
+  margin-left: 2px;
+ }
