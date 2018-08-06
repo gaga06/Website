@@ -6,7 +6,7 @@ setTimeout(function()
 
   function magenta()
   {
-    document.getElementById("magenta").style.backgroundColor = "magenta";
+    document.getElementById("mag").style.background = "magenta";
 }
 
 
